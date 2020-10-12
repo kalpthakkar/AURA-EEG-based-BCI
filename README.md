@@ -1,2 +1,2 @@
-Committed on 2020-10-12T12:35:23 
+Committed on 2020-10-12T12:36:37 
 Committer - https://github.com/kalpthakkar/AURA-EEG-based-BCI
